@@ -8,3 +8,4 @@ For more info, visit [Soft Potato](https://oliverrdz.xyz/soft-potato).
     * microdisc_LSV
     * microdisc_CA
     * Cottrell
+    * Randles-Sevcik
