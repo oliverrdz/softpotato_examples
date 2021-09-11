@@ -7,3 +7,4 @@ For more info, visit [Soft Potato](https://oliverrdz.xyz/soft-potato).
 * calc/
     * microdisc_LSV
     * microdisc_CA
+    * Cottrell
