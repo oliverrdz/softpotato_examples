@@ -9,3 +9,5 @@ For more info, visit [Soft Potato](https://oliverrdz.xyz/soft-potato).
     * microdisc_CA
     * Cottrell
     * Randles-Sevcik
+* sim/
+    * MacroE-BI
