@@ -20,6 +20,8 @@ print(iLim)
 ```
 ## Directory tree
 
+See one of the following for examples on how to use the script version of Soft Potato.
+
 * calc/
     * microdisc_LSV
     * microdisc_CA
