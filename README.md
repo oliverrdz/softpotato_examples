@@ -1,6 +1,6 @@
 # Jupyter notebook examples of the pip version of Soft Potato
 
-For more info, visit [Soft Potato](https://oliverrdz.xyz/soft-potato).
+For more info, visit [Soft Potato](https://softpotato.xyz).
 
 ## Install
 ``` python
